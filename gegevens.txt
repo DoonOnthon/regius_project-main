@@ -1,0 +1,30 @@
+Binnen de scope
+
+
+Registratie gegevens nodig van bedrijf : 
+
+Branche : 
+Beroep : 
+Bedrijfsgegevens : 
+
+Registratie gegevens persoon : 
+Naam : 
+School : 
+Klas :  
+	-Het leukste aan deze branch vond ik? Na het scannen QR code
+
+
+Na het inloggen :
+
+De gebruiker zal moeten inloggen met gerigestreerde email / wachtwoord en of andere inlog opties.
+ 
+De gebruiker zal toegang moeten geven tot de camera via de website (indien deze afgesloten wordt zal dat weer moeten).
+
+Wanneer de gebruiker bij een bedrijf is geweest zal deze de QR code scannen en vervolgens de form “Het leukste aan deze branch vond ik?” moeten invullen.
+
+
+------------wordt nog over gesproken------------
+Als dit is ingevuld zal er bij de gebruiker gegevens van het bedrijf onder de profiel gegevens komen met een kenmerk (vinkje / groen gekleurd) zodat de gebruiker weet welk beroep/branche hij/zij heeft gevolgd.
+Buiten de scope
+
+-Het bedrijf zal moeten toekenen dat de gebruiker alles heeft doorlopen
